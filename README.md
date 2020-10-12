@@ -10,3 +10,13 @@ Ceturtā attēla rakurss un pārklājums ir neskaidrs — to neskaitīju.
 
 Attēlu direktorijā 8 attēli.
 4 sākummateriāli un 4 rezultāta attēli ar nosaukuma galotni "_skaits.jpg"
+
+1. attēlā ir redzami 185 cilvēki.
+
+2. attēlā ir redzami 177 cilvēki.
+
+3. attēlā ir redzami 182 cilvēki.
+
+185+177+182=544
+
+Trijos attēlos kopā redzami ~544 cilvēki.
