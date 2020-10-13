@@ -23,6 +23,6 @@ Trijos attēlos kopā redzami ~544 cilvēki.
 
 Saite uz "Crowd size estimation": https://t.co/znWT3Z8a1n?amp=1
 
-Secinājums:
+# Secinājums:
 
 Ir iespējams pierādīt, ka 10.10.2020. pasākumā piedalījās vismaz 1500 cilveku.
